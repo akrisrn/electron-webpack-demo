@@ -1,0 +1,11 @@
+{
+  "title": "",
+  "main": {
+    "extraEntries": [
+      "@/preload.ts"
+    ]
+  },
+  "renderer": {
+    "template": "src/index.html"
+  }
+}
